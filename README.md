@@ -12,3 +12,5 @@ https://youtu.be/HUvbBOuPJg8
 4) Press "Add 200 emblems"
 5) Press "Save"
 6) Load game
+
+Tested on GOG version of game: https://www.gog.com/game/pine
